@@ -1,7 +1,5 @@
 package composite;
 
-import java.util.ArrayList;
-
 // LEAF //
 
 public class Node extends ANode{
